@@ -1,0 +1,19 @@
+{
+  "name": "kinecticframework",
+  "version": "0.0.5",
+  "description": "A framework of dynamic and easy to customize pages using Html5, Js and Css. Based on CefSharp framework.",
+  "main": "program.cs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Lucas Rodrigues Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
